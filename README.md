@@ -1,5 +1,5 @@
 ## Hi there 👋 Its me Binita Gyawali
-🔭Statistics Graduate | Masters in Data Science Student 
+🔭Statistics Graduate | Masters in Data Science Student .
 ⚡Interested in Data Science, Machine Learning and Artificial Intelligence .  
 🌱Learning Python, R and SQL  
 
