@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Its me Binita Gyawali
+Statistics Graduate | Masters in Data Science Student  
+Interested in Data Science, Machine Learning and Artificial Intelligence 
+Learning Python, R and SQL  
+
 
 <!--
 **binita0401/binita0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
