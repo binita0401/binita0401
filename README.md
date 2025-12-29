@@ -1,21 +1,30 @@
-## Hi there 👋 Its me Binita Gyawali
+## Hi, I'm Binita Gyawali 👋
 
--🔭Statistics Graduate | Masters in Data Science Student
--⚡Interested in Data Science, Machine Learning and Artificial Intelligence
--🌱Learning Python, R and SQL
+🎓 Statistics Graduate | Masters in Data Science Student  
+📊 Passionate about Data Science, Machine Learning & Analytics  
 
 
-<!--
-**binita0401/binita0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Skills & Tools
+- **Programming:** Python, R  
+- **Data Science:** Data Analysis, Statistics, Linear Algebra  
+- **Learning:** Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+---
+
+### 📌 Interests
+- Data-driven problem solving  
+- Statistical modeling   
+- Continuous learning and collaboration
+
+---
+
+### 📫 Connect With Me
+- GitHub 
+- Open to collaboration on academic and learning projects
+
+---
+
